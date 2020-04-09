@@ -8,7 +8,7 @@ It is the reponsibility of the chair to determine the rules for entry to a worki
 ## All Groups
 
 The Working Groups established for this language are as follows:
-* Core Working Group: Highest authority in the language
+* Core Working Group: Highest authority in the language, all stable changes to both language and library must be approved by Core. 
 * Language Design Working Group: Language Syntax and Semantics
 * Library Design Working Group: Standard and Core Libraries
 * Compiler Working Group: Maintence on the Compiler for the Language.
