@@ -25,7 +25,8 @@ The chair has the following responsibilities:
 * Providing a method to recieve papers from outside the group, and originate papers from within the group.
 * Submitting papers voted on by their working group to the core working group. 
 
-The chair of each working group needs the confidence of the members. A majority vote of the working group may remove the sitting chair. 
-The Chair of each group is repsonsible for providing a system which allows working group members to issue votes of non-confidence. 
+The chair of each working group needs the confidence of the members. A majority vote of the working group may remove the sitting chair. These chairs are repsonsible for providing a system which allows working group members to issue votes of non-confidence. 
 
+The chair of each working, along with a Project Manager who acts as the chair, shall form the membership of the Core Working Group. 
 
+No person may serve as the chair of more than one Working Group at any one time. 
