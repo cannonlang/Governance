@@ -11,3 +11,5 @@ Additionally, the project manager is granted the following authority and respons
 * The Project Manager may start a process to remove any Working Group Chair from their position, and from the Core Working Group, which shall be effective on concurrence of 2/3s of the Members of the Core Working Group. A new working group chair shall be elected upon such a removal. 
 
 The Project Manager must have the confidence of the Core Working Group. A *simple-majority* vote of the Core Working Group may remote a Project Manager on the basis of non-confidence. 
+
+A person who is chair of any Working Group is inelligable to be the Project Manager, and the Project Manager is inelligable to chair any Working Group, except for the Core Working Group.
