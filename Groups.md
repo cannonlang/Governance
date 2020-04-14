@@ -17,7 +17,7 @@ The Working Groups established for this language are as follows:
 
 ## Group Chairs
 
-Each Working Group shall elect a chair. 
+The community shall, for each working group, elect a chair of that working group. 
 The chair has the following responsibilities:
 * Organizing the Working Group
 * Admitting people to the working group
