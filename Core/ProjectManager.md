@@ -12,4 +12,4 @@ Additionally, the project manager is granted the following authority and respons
 
 The Project Manager must have the confidence of the Core Working Group. A *simple-majority* vote of the Core Working Group may remote a Project Manager on the basis of non-confidence. 
 
-A person who is chair of any Working Group is inelligable to be the Project Manager, and the Project Manager is inelligable to chair any Working Group, except for the Core Working Group.
+A person who is chair of any Working Group is ineligible to be the Project Manager, and the Project Manager is ineligible to chair any Working Group, except for the Core Working Group. A person who is otherwise ineligible to be a Working Group chair is also ineligible to be the Project Manager.
