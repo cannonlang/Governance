@@ -7,7 +7,7 @@ The Project Manager has oversight of all working groups, and shall act as chair 
 Additionally, the project manager is granted the following authority and responsibilities:
 * The project manager may order any Working Group Chair to alter the method on which papers are reviewed and approved by that working group, the method of communication within that working group, and the method of filings votes of non-confidence. The project manager shall do so only if they believe that the method currently in use is not appropriate for the Working Group. 
 * The project manager may order that any paper they deem inappropriate or incorrect for a working group to be discarded by that working group, and resubmitted to the proper working group if allowable. This order may be overturned by concurrence of 2/3s of the members of that working group, including the chair of that group. 
-* In the event that the Core Working Group has even membership, and is tied for *simple-majority* in any vote, the project manager may offer a 2nd vote as a method to resolve the tie. 
+* In the event that the Core Working Group is tied for *simple-majority* in any vote, the project manager may offer a 2nd vote as a method to resolve the tie. 
 * The Project Manager may start a process to remove any Working Group Chair from their position, and from the Core Working Group, which shall be effective on concurrence of 2/3s of the Members of the Core Working Group. A new working group chair shall be elected upon such a removal. 
 
 The Project Manager must have the confidence of the Core Working Group. A *simple-majority* vote of the Core Working Group may remote a Project Manager on the basis of non-confidence. 
