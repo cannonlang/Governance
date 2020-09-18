@@ -27,7 +27,7 @@ The chair has the following responsibilities:
 
 The chair of each working group needs the confidence of the members. A majority vote of the working group may remove the sitting chair. These chairs are responsible for providing a system which allows working group members to issue votes of non-confidence. 
 
-Should a chair be removed by majority vote, he/she shall not be admitted back in any chair position, regardless if they have been voted in an election. If the public votes in a former chair which was removed by majority votes, the council should see to admit the second most votes, and any runner-up after the fact. If there are no other candidates to be considered, the Chairs should see another election, or assign the position to whomever is deemed fit.
+Should a chair be removed by majority vote, they shall not be admitted back in any chair position, regardless if they have been voted in an election without consent of the Core Working Group which shall be granted upon *two-thirds majority*. If the public votes in a former chair which was removed by majority votes, the council should see to admit the second most votes, and any runner-up after the fact. If there are no other candidates to be considered, the Chairs should see another election, or assign the position to whomever is deemed fit.
 
 The chair of each working, along with a Project Manager who acts as the chair, shall form the membership of the Core Working Group. 
 
