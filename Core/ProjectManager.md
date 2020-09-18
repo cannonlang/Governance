@@ -9,7 +9,7 @@ Additionally, the project manager is granted the following authority and respons
 * The project manager may order that any paper they deem inappropriate or incorrect for a working group to be discarded by that working group, and resubmitted to the proper working group if allowable. This order may be overturned by concurrence of 2/3s of the members of that working group, including the chair of that group. 
 * In the event that the Core Working Group is tied for *simple-majority* in any vote, the project manager may offer a 2nd vote as a method to resolve the tie. 
 * The Project Manager may start a process to remove any Working Group Chair from their position, and from the Core Working Group, which shall be effective on concurrence of 2/3s of the Members of the Core Working Group. A new working group chair shall be elected upon such a removal.
-Should a chair be the removed by the above, they shall not be admitted back in any chair position, regardless if they have been voted in by election, without the consent of the Core Working Group which shall be granted upon *two-thirds majority*. 
+Should a chair be the removed by the above, they shall not be admitted back in any chair position, regardless if they have been voted in by election, without the consent of the Core Working Group that shall be granted upon *two-thirds majority*. 
 
 
 The Project Manager must have the confidence of the Core Working Group. A *simple-majority* vote of the Core Working Group may remote a Project Manager on the basis of non-confidence. 
