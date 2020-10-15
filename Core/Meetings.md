@@ -1,7 +1,7 @@
 # Core Working Group Meetings
 
-The Core Working Group shall hold meetings once every month. 
-The meetings shall be conducted electronically, and according to [Robert's Rules of Order](http://www.rulesonline.com/). 
+The Core Working Group shall hold meetings at least once every month, at a date and time established by the Project Manager. 
+The meetings shall be conducted electronically, in such a manner as established by the Project Manager, and shall be conducted according to [Robert's Rules of Order (newly revised)](http://www.rulesonline.com/). 
 An Agenda for the meeting shall be made available to Working Group Members by the Chair of the Core Working Group at least 48 hours prior to the meeting. 
 A transcription of the results of the meeting shall be made available to Working Group Members within 48 hours following the meeting.
 Quorum for meetings of Core Working Group shall be 2/3s of its membership.
@@ -19,3 +19,9 @@ A *simple majority* is required to approve changes to the language or library
 A *two-thirds majority* is required to approve changes to the governance of the language or library. 
 
 A *two-thirds majority* is required to establish a new working group. 
+
+## Additional Meetings
+
+The Project Manager may convene additional meetings under all of the above rules, outside of the normal monthly meeting, with reasonable cause. A majority of the Core Working Group may request that the Project Manager convene such a meeting. 
+
+Additionally, when it is necessary for the proper excercise of power granted by this Governance, and when 3/4s of the Core Working Group agree, the Project Manager may convene an emergency meeting to resolve issues in the proper excercise of such power. Such emergency meetings dispose of the requirements of an agenda and minutes, and the results of the meeting may be discussed in the subsequent standard meeting of the Core Working Group, or included in the transcription of the previous meeting if the issue arrose from that previous meeting. 
