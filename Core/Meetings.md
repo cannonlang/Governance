@@ -4,7 +4,7 @@ The Core Working Group shall hold meetings at least once every month, at a date 
 The meetings shall be conducted electronically, in such a manner as established by the Project Manager, and shall be conducted according to [Robert's Rules of Order (newly revised)](http://www.rulesonline.com/). 
 An Agenda for the meeting shall be made available to Working Group Members by the Chair of the Core Working Group at least 48 hours prior to the meeting. 
 A transcription of the results of the meeting shall be made available to Working Group Members within 48 hours following the meeting.
-Quorum for meetings of Core Working Group shall be 2/3s of its membership.
+Quorum for meetings of Core Working Group shall be 2/3s of its membership. If it is not possible to convene a quorum at a regular meeting where the Project Manager attempts to do so in Good Faith, the meeting shall be considered to have been held, though no business was conducted.
 All papers reviewed and approved during the meeting shall be made available by the Responsible Working Group Chair in the WG-Papers responsitory, this requirement may be waived at the discretion of the Project Manager for papers which change the Governence Rules, or Technical Report papers which are deemend unecessary to publish.
 The transcription from the previous meeting shall be voted on to approve during each subsequent meeting, and if approved, shall be made available in the WG-Core-Minutes repository by the Project Manager or a designated substitute. 
 The Responsible Working Group Chair for a paper submitted to the Core Working Group shall be either:
