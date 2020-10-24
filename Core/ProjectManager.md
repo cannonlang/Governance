@@ -1,7 +1,7 @@
 # Laser Language Project Manager
 
-The Chairs of each Working Group, asside from the Core Working Group, shall elect a Project Manager,
- who is not acting as the chair of any working group. 
+Through a Method provided for by any previous Project Manager as below, or lacking such a mechanism, a method which the Core Working Group may as a whole dictate,
+ the Community of the Laser Language shall elect or appoint a Project Manager, who is not inelligable for the position. 
 
 The Project Manager has oversight of all working groups, and shall act as chair of the Core Working Group.
 Additionally, the project manager is granted the following authority and responsibilities:
@@ -10,6 +10,7 @@ Additionally, the project manager is granted the following authority and respons
 * In the event that the Core Working Group is tied for *simple-majority* in any vote, the project manager may offer a 2nd vote as a method to resolve the tie. 
 * The Project Manager may start a process to remove any Working Group Chair from their position, and from the Core Working Group, which shall be effective on concurrence of 2/3s of the Members of the Core Working Group. A new working group chair shall be elected upon such a removal.
 Should a chair be the removed by the above, they shall not be admitted back in any chair position, regardless if they have been voted in by election, without the consent of the Core Working Group that shall be granted upon *two-thirds majority*. 
+* Establish, and document through an approved report, the mechanism under which vacancies in any chair position may be filled, when such vacancies need to be filled, and how the authorities and responsibilities of any chair position are excercised when that chair position is vacant, subject to policy established the particular working group.
 
 
 The Project Manager must have the confidence of the Core Working Group. A *simple-majority* vote of the Core Working Group may remote a Project Manager on the basis of non-confidence. 
