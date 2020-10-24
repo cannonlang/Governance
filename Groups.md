@@ -14,7 +14,7 @@ The Working Groups established for this language are as follows:
 * Compiler Working Group: Maintence on the Compiler for the Language.
 * Embedded Working Group: Providing Support for embedded development using the language
 * Game Development Working Group: Providing Support for Game Development
-* Community Working Group: The Official Website and Discord Server of the Laser Language, as well as the interaction with the community
+* Community Working Group: Providing the Official Website and Discord Server of the Laser Language, as well as the interaction with the community. The Community Working Group may also set a general policy for the Code of Conduct in all dealings reguarding the Laser Language and the Working Groups.
 
 ## Group Chairs
 
