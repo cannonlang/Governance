@@ -3,7 +3,7 @@
 "This Document", in all forms of capitalization, shall include all documents or portions available at the public repository at <https://github.com/LaserLang/Governance>,
  or such other location as may be established by the Core Working Group but which shall be in a publically accessible location, excluding any proposed ammendment thereof which has not be approved by the Core Working Group.
 
-This document may contain (either by intent or mistake) vague provision, conflicting provision, or unenumerated cases in provision. In any case arising from dispute in interpretation, this authority and responsibility shall fall to the Project Manager, or beyond that to the Core Working Group as a whole finally. A majority vote by the Core Working Group is necessary to establish the interpretation or to override an interpretation brought by the Project Manager, or to replace an interpretation established previously. 
+This document may contain (either by intent or mistake) vague provisions, conflicting provisions, or unenumerated cases in provisions. In any case arising from dispute in interpretation, this authority and responsibility shall fall to the Project Manager, or beyond that to the Core Working Group as a whole finally. A majority vote by the Core Working Group is necessary to establish the interpretation or to override an interpretation brought by the Project Manager, or to replace an interpretation established previously. 
 The Core Working Group may establish, and describe through Report, additional bodies which may also serve to interpret this document, overriden by the Project Manager or by the Core Working Group in that order.
 
 ## Limitations of Interpretations
