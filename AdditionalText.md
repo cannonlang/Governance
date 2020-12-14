@@ -8,8 +8,8 @@ We the Core Working Group establish on (insert date) that the Language being dev
 
 * All instances of the name Laser occuring in the Governance shall be replaced with Lillang. 
     * The Project Manager is authorized and ordered to perform any and all amendments to the Governance to this effect with no further extent unilatterally. 
-* The Core Working Group shall cease operations using the name Laser, and shall commence all future operations and discussions using the name Lillang.
-* The chairs of each working group other than the Core Working Group are hereby ordered by the Core Working Group to cease operations using the name Laser, and shall carry out all future operations and discussions using the name Lillang. This order shall not be overturned by the Working Group. 
+* The Project Manager shall cease operations of the Core Working Group using the name Laser, and shall commence all future operations and discussions using the name Lillang.
+* The chairs of each working group other than the Core Working Group are hereby ordered to cease operations using the name Laser, and shall carry out all future operations and discussions using the name Lillang. This order shall not be overturned by the Working Group. 
 * The chair of the compiler working group, in collaboration with the Core Working Group, is ordered to establish the names for the sections of the Lillang Language Specification reserved to and for the compiler working group except that no section reserved to any other working group may be reserved in this way.
     * The resulting sections shall be documented and published in an approved report. 
 * The chair of the community working group is ordered to make public this name change in all forums which it deems necessary and proper to do so by any mechanism the working group deems fit. 
