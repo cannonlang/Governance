@@ -1,6 +1,6 @@
 # Groups
 
-This document Describes the working groups which develop the language and library of Laser. 
+This document Describes the working groups which develop the language and library of Lillang. 
 These groups are responsible for recieving and voting on papers that change the language in a specific way. 
 To join a Working Group (except for Core), contact the chair of that group. 
 It is the reponsibility of the chair to determine the rules for entry to a working group. 
