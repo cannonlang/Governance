@@ -1,7 +1,7 @@
 # Laser Language Project Manager
 
 Through a Method provided for by any previous Project Manager as below, or lacking such a mechanism, a method which the Core Working Group may as a whole dictate,
- the Community of the Lillang Language shall elect or appoint a Project Manager, who is not inelligable for the position. 
+ the Community of the Cannon Language shall elect or appoint a Project Manager, who is not inelligable for the position. 
 
 The Project Manager has oversight of all working groups, and shall act as chair of the Core Working Group.
 Additionally, the project manager is granted the following authority and responsibilities:
