@@ -13,7 +13,7 @@ The Responsible Working Group Chair for a paper submitted to the Core Working Gr
 * The chair of the Working Group which originates the paper and for which the paper is most closely associated with the responsibilities of, if there is such a Working Group, and only one such Working Group
 * The chair of any Working Group which originates the paper, at the consensus of all such Working Group Chairs if none of such Working Groups are the Core Working Group. 
 * The Project Manager or a designated substitute for all other papers (IE. papers which were originated in the Core Working Group)
-* All papers which seak to ammend the governance of the Laser Language shall be deemed to have originated in the Core Working Group, for the purposes of determining the Responsible Working Group Chair.
+* All papers which seak to ammend the governance of the Cannon Language shall be deemed to have originated in the Core Working Group, for the purposes of determining the Responsible Working Group Chair.
 
 A *simple majority* is required to approve changes to the language or library
 
