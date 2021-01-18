@@ -2,10 +2,16 @@
 
 The Core Working Group shall hold meetings at least once every month, at a date and time established by the Project Manager. 
 The meetings shall be conducted electronically, in such a manner as established by the Project Manager, and shall be conducted according to [Robert's Rules of Order (newly revised)](http://www.rulesonline.com/), or some other rules of order which may be established by the Core Working Group and described by Technical Report. 
+
+Meetings shall admit any and all members of the Core Working Group, and may, at the option of the Project Manager, admit others, but all such others shall not posses a vote or be counted towards Quorum or Lack thereof, and any such members may be declined admittence by *simple-majority*. 
+
+Quorum for meetings of Core Working Group shall be 2/3s of its membership. No meeting shall be convened, or conduct any business further than adjourning the meeting, or appointing a speaker for solely that purpose, without a quorum present. 
+
+If it is not possible to convene a quorum at a regular meeting where the Project Manager attempts to do so in Good Faith, the meeting shall be considered to have been held, as though the meeting was convened, and immediately adjourned by a quorum. 
+
 An Agenda for the meeting shall be made available to Working Group Members by Project Manager at least 48 hours prior to the meeting. 
 A transcription of the results of the meeting shall be made available to Working Group Members within 48 hours following the meeting.
-Quorum for meetings of Core Working Group shall be 2/3s of its membership. No meeting shall be convened, or conduct any business further than adjourning the meeting, or appointing a speaker for solely that purpose, without a quorum present. 
-If it is not possible to convene a quorum at a regular meeting where the Project Manager attempts to do so in Good Faith, the meeting shall be considered to have been held, as though the meeting was convened, and immediately adjourned by a quorum. 
+
 All papers reviewed and approved during the meeting shall be made available by the Responsible Working Group Chair in the WG-Papers responsitory, this requirement may be waived at the discretion of the Project Manager for papers which change the Governence Rules, or Technical Report papers which are deemend unecessary to publish.
 The transcription from the previous meeting at which a quorum was present shall be voted on to approve during each subsequent meeting, and if approved, shall be made available in the WG-Core-Minutes repository by the Project Manager or a designated substitute. 
 The Responsible Working Group Chair for a paper submitted to the Core Working Group shall be either:
@@ -15,11 +21,10 @@ The Responsible Working Group Chair for a paper submitted to the Core Working Gr
 * The Project Manager or a designated substitute for all other papers (IE. papers which were originated in the Core Working Group)
 * All papers which seak to ammend the governance of the Cannon Language shall be deemed to have originated in the Core Working Group, for the purposes of determining the Responsible Working Group Chair.
 
-A *simple majority* is required to approve changes to the language or library
+A *simple majority* is required to approve changes to the language or library, or a report published by a Working Group. 
 
-A *two-thirds majority* is required to approve changes to the governance of the language or library. 
+A *two-thirds majority* is required to approve changes to the governance of the language or library, but no amendment to Governance shall compel the Core Working Group to Action, compel an individual member of the Core Working Group to approve or reject any action, or decline admittance of any Working Group Chair to a meeting of the Core Working Group. 
 
-A *two-thirds majority* is required to establish a new working group. 
 
 ## Additional Meetings
 
