@@ -16,4 +16,6 @@ Should a chair be the removed by the above, they shall not be admitted back in a
 
 The Project Manager must have the confidence of the Core Working Group. A *simple-majority* vote of the Core Working Group may remote a Project Manager on the basis of non-confidence. 
 
+The Core Working Group may establish, and document through an approved report, a policy under which the above authorities may be excercised when the position of Project Manager is vacant. 
+
 A person who is chair of any Working Group is ineligible to be the Project Manager, and the Project Manager is ineligible to chair any Working Group, except for the Core Working Group. A person who is otherwise ineligible to be a Working Group chair is also ineligible to be the Project Manager.
