@@ -21,13 +21,13 @@ The Responsible Working Group Chair for a paper submitted to the Core Working Gr
 * The Project Manager or a designated substitute for all other papers (IE. papers which were originated in the Core Working Group)
 * All papers which seak to ammend the governance of the Cannon Language shall be deemed to have originated in the Core Working Group, for the purposes of determining the Responsible Working Group Chair.
 
-A *simple majority* is required to approve changes to the language or library, or a report published by a Working Group. 
+A *simple majority* is required to take any action which does not otherwise prescribe a requirement. 
 
 A *two-thirds majority* is required to approve changes to the governance of the language or library, but no amendment to Governance shall compel the Core Working Group to Action, compel an individual member of the Core Working Group to approve or reject any action, or decline admittance of any Working Group Chair to a meeting of the Core Working Group. 
 
 
 ## Additional Meetings
 
-The Project Manager may convene additional meetings under all of the above rules, outside of the normal monthly meeting, for reasonable cause. A majority of the Core Working Group may request that the Project Manager convene such a meeting, for reasonable cause. 
+The Project Manager, or any other person who the Project Manager or the Core Working Group may designate, may convene additional meetings under all of the above rules, outside of the normal monthly meeting, for reasonable cause. A majority of the Core Working Group may request that the Project Manager convene such a meeting, for reasonable cause. 
 
 Additionally, when 2/3s of the Core Working Group agree, the Project Manager may convene an emergency meeting to resolve serious issues in the excercise of Governance Authority. Such emergency meetings may dispose of the requirements of an agenda and minutes, and the results of the meeting may be discussed in the subsequent standard meeting of the Core Working Group, or included in the transcription of the previous meeting if the issue arrose from that previous meeting. An emergency meeting shall conduct no business further than convening and adjourning the meeting, appointing a speaker if necessary, and any further business necessary to resolve the issues above.
