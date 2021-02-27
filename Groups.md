@@ -30,6 +30,6 @@ The chair of each working group needs the confidence of the members. A majority 
 
 Should a chair be removed by majority vote, they shall not be admitted back in any chair position, regardless if they have been voted in an election without consent of the Core Working Group that shall be granted upon *two-thirds majority*. 
 
-The chair of each working group, along with a Project Manager who acts as its chair, shall be members of the Core Working Group. 
+The chairs of each working group as well as a Project Manager shall be members of the Core Working Group. The Project Manager shall be the chair of the Core Working Group.
 
 No person may serve as the chair of more than one Working Group at any one time. 
