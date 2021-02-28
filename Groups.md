@@ -31,6 +31,6 @@ These chairs are responsible for providing a system which allows working group m
 
 Should a chair be removed by majority vote, the reasons thereof shall be documented and transmitted to the Core Working Group by a member of that Working Group. If the removal is concurred with by a *simple-majority* of the Core Working Group, they shall not be eligible to hold any chair position, without the consent of the Core Working Group that shall be granted upon *two-thirds majority*. 
 
-The chair of each working, along with a Project Manager who acts as the chair, shall form the membership of the Core Working Group. 
+The chairs of each working group, as well as a Project Manager, shall be members of the Core Working Group. The Project Manager shall be the chair of the Core Working Group.
 
 No person may serve as the chair of more than one Working Group at any one time. 
